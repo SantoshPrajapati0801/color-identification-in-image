@@ -1,4 +1,4 @@
-# @Author : Santosh Prajapati
+# @author : Santosh Prajapati
 
 
 # pip install pandas opencv-python  
